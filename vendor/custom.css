@@ -1,11 +1,5 @@
 @charset "UTF-8";
-.headbar
-{
-color: aliceblue;
-font-size: 28px;
-font-weight: 100;
-text-align: center;"
-}
+
 .social-fb:hover {
 background-image: url("images/fb_new.png");
 opacity: 1;
